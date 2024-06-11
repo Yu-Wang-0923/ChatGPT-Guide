@@ -1,11 +1,15 @@
 # ChatGPT-提示词工程
 
-[返回主页](../README.md) | [ChatGPT-简介](ChatGPT-Introduction.md) | [ChatGPT-主要功能](ChatGPT-Key%20Features.md) | [ChatGPT-底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT-基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT-模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT-GPTs的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT-插件](ChatGPT-Plugins.md) | [ChatGPT-API调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT-提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT-示例](ChatGPT-Examples.md) | [ChatGPT-常见问题](ChatGPT-FAQ.md)
+[返回主页](../README.md) | [ChatGPT 简介](ChatGPT-Introduction.md) | [ChatGPT 主要功能](ChatGPT-Key%20Features.md) | [ChatGPT 底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT 基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT 模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT GPTs 的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT 插件](ChatGPT-Plugins.md) | [ChatGPT API 调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT 提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT 示例](ChatGPT-Examples.md) | [ChatGPT 常见问题](ChatGPT-FAQ.md)
+
+---
 
 ## 目录
 1. [编写有效提示词的技巧](#编写有效提示词的技巧)
 2. [提高对话质量的方法](#提高对话质量的方法)
 3. [提示词优化案例](#提示词优化案例)
+
+---
 
 ## 编写有效提示词的技巧
 
@@ -28,6 +32,8 @@
 ### 图表：编写有效提示词示意图
 ![编写有效提示词示意图](https://example.com/effective-prompt-writing-chart.png)
 
+---
+
 ## 提高对话质量的方法
 
 ### 概念
@@ -46,6 +52,8 @@
 ### 图表：提高对话质量方法示意图
 ![提高对话质量方法示意图](https://example.com/improve-conversation-quality-chart.png)
 
+---
+
 ## 提示词优化案例
 
 ### 案例1：技术解释
@@ -63,7 +71,8 @@
 ### 图表：提示词优化案例示意图
 ![提示词优化案例示意图](https://example.com/prompt-optimization-examples-chart.png)
 
+---
+
 通过这些技巧和方法，用户可以编写更加有效的提示词，提高与 ChatGPT 的交互质量，优化生成文本的相关性和准确性。这些优化案例展示了如何通过具体明确的提示词引导模型生成高质量的回复。
 
 [返回主页](../README.md)
-
