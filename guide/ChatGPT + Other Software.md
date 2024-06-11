@@ -1,6 +1,8 @@
 # ChatGPT + 其他软件
 
-[返回主页](../README.md) | [ChatGPT-简介](ChatGPT-Introduction.md) | [ChatGPT-主要功能](ChatGPT-Key%20Features.md) | [ChatGPT-底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT-基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT-模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT-GPTs的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT-插件](ChatGPT-Plugins.md) | [ChatGPT-API调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT-提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT-示例](ChatGPT-Examples.md) | [ChatGPT-常见问题](ChatGPT-FAQ.md)
+[返回主页](../README.md) | [ChatGPT 简介](ChatGPT-Introduction.md) | [ChatGPT 主要功能](ChatGPT-Key%20Features.md) | [ChatGPT 底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT 基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT 模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT GPTs 的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT 插件](ChatGPT-Plugins.md) | [ChatGPT API 调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT 提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT 示例](ChatGPT-Examples.md) | [ChatGPT 常见问题](ChatGPT-FAQ.md)
+
+---
 
 ## 目录
 1. [Mathematica](#mathematica)
@@ -9,6 +11,8 @@
 4. [Maple](#maple)
 5. [Zotero](#zotero)
 6. [WeChat](#wechat)
+
+---
 
 ## Mathematica
 
@@ -42,6 +46,8 @@ Print[responseText];
 ### 图表：Mathematica 集成示意图
 ![Mathematica 集成示意图](https://example.com/mathematica-integration-chart.png)
 
+---
+
 ## R
 
 ### 集成方法
@@ -71,6 +77,8 @@ print(response_content$choices[[1]]$text)
 ### 图表：R 集成示意图
 ![R 集成示意图](https://example.com/r-integration-chart.png)
 
+---
+
 ## MATLAB
 
 ### 集成方法
@@ -90,6 +98,8 @@ disp(response_text);
 
 ### 图表：MATLAB 集成示意图
 ![MATLAB 集成示意图](https://example.com/matlab-integration-chart.png)
+
+---
 
 ## Maple
 
@@ -118,6 +128,8 @@ print(response_text):
 
 ### 图表：Maple 集成示意图
 ![Maple 集成示意图](https://example.com/maple-integration-chart.png)
+
+---
 
 ## Zotero
 
@@ -154,6 +166,8 @@ fetch(url, {
 
 ### 图表：Zotero 集成示意图
 ![Zotero 集成示意图](https://example.com/zotero-integration-chart.png)
+
+---
 
 ## WeChat
 
@@ -208,7 +222,8 @@ if __name__ == '__main__':
 ### 图表：WeChat 集成示意图
 ![WeChat 集成示意图](https://example.com/wechat-integration-chart.png)
 
+---
+
 通过这些步骤，用户可以将 ChatGPT 集成到各种软件和平台中，从而扩展其功能和应用场景。这些集成示例展示了如何使用 API 调用和脚本编写来实现与不同软件的连接。
 
 [返回主页](../README.md)
-
