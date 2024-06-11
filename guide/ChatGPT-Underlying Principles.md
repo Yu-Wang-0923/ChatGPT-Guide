@@ -13,6 +13,7 @@
 它会列出随后可能出现的词及其出现的“概率”(按“概率”从高到低排列)。
 
 The best thing about AI is its ability to
+
 |learn|4.5%|
-|-----|----|
+|||
 |  do |2.9%|
