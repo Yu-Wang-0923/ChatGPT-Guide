@@ -11,7 +11,7 @@
 6. **[ChatGPT-GPTs的创建](guide/ChatGPT-Creating%20GPTs.md)**：详细说明如何创建、训练和部署自定义 GPT 模型，满足特定需求。
 7. **[ChatGPT-插件](guide/ChatGPT-Plugins.md)**：讲解如何安装和配置插件，介绍常用插件并提供自定义插件开发的指导。
 8. **[ChatGPT-API调用](guide/ChatGPT-API%20Calls.md)**：说明如何获取 API 密钥、进行 API 请求、处理响应和调试错误。
-9. **[ChatGPT + 其他软件](guide/ChatGPT-Plus%20Other%20Software.md)**：介绍如何将 ChatGPT 与其他应用和平台集成，如 Slack 和 Microsoft Teams 等。
+9. **[ChatGPT + 其他软件](guide/ChatGPT+%20Other%20Software.md)**：介绍如何将 ChatGPT 与其他应用和平台集成，如 Slack 和 Microsoft Teams 等。
 10. **[ChatGPT-提示词工程](guide/ChatGPT-Prompt%20Engineering.md)**：提供编写有效提示词的技巧和方法，帮助用户提高对话的质量和效果。
 11. **[ChatGPT-示例](guide/ChatGPT-Examples.md)**：通过多个实际示例，展示 ChatGPT 在撰写文本、回答问题、生成代码等方面的应用。
 12. **[ChatGPT-常见问题](guide/ChatGPT-FAQ.md)**：解答用户在使用过程中可能遇到的常见问题，并提供获取技术支持的途径。
