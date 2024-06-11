@@ -1,5 +1,7 @@
 # 底层原理
 
+[返回主页](../README.md) | [**ChatGPT 简介**](ChatGPT-Introduction.md) | [**主要功能**](ChatGPT-Key%20Features.md) | [**底层原理**](ChatGPT-Underlying%20Principles.md) | [**基本操作**](ChatGPT-Basic%20Operations.md) | [**模型参数调整**](ChatGPT-Model%20Parameter%20Adjustment.md) | [**创建 GPTs**](ChatGPT-Creating%20GPTs.md) | [**插件**](ChatGPT-Plugins.md) | [**API 调用**](ChatGPT-API%20Calls.md) | [**ChatGPT 与其他软件的集成**](ChatGPT%20+%20Other%20Software.md) | [**提示词工程**](ChatGPT-Prompt%20Engineering.md) | [**示例**](ChatGPT-Examples.md) | [**常见问题解答**](ChatGPT-FAQ%20(Frequently%20Asked%20Questions).md)
+
 首先需要解释，ChatGPT从根本上始终要做的是，针对它得到的任何文本产生“合理的延续”。这里所说的“合理”是指，“人们在看到诸如数十亿个网页上的内容后，可能期待别人会这样写”。
 
 假设我们手里的文本是 **“The best thing about AI is its ability to”**。
