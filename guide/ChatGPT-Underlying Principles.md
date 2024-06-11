@@ -17,4 +17,8 @@ The best thing about AI is its ability to
 
 |下一个词|概率|
 |-|-|
-|  do |2.9%|
+|learn|4.5%|
+|predict|3.5%|
+|make|3.2%|
+|understand|3.1%|
+|do|2.9%|
