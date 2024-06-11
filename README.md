@@ -14,6 +14,6 @@
 9. **[ChatGPT + 其他软件](guide/ChatGPT%20+%20Other%20Software.md)**：介绍如何将 ChatGPT 与其他应用和平台集成，如 Slack 和 Microsoft Teams 等。
 10. **[ChatGPT-提示词工程](guide/ChatGPT-Prompt%20Engineering.md)**：提供编写有效提示词的技巧和方法，帮助用户提高对话的质量和效果。
 11. **[ChatGPT-示例](guide/ChatGPT-Examples.md)**：通过多个实际示例，展示 ChatGPT 在撰写文本、回答问题、生成代码等方面的应用。
-12. **[ChatGPT-常见问题](guide/ChatGPT-FAQ.md)**：解答用户在使用过程中可能遇到的常见问题，并提供获取技术支持的途径。
+12. **[ChatGPT-常见问题](guide/ChatGPT-FAQ%20(Frequently%20Asked%20Questions).md)**：解答用户在使用过程中可能遇到的常见问题，并提供获取技术支持的途径。
 
 本指南不仅是一个使用手册，更是一个帮助用户发掘 ChatGPT 潜力的工具，旨在帮助用户在各种场景中高效、灵活地应用 ChatGPT，解决实际问题。
