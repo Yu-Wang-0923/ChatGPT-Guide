@@ -5,7 +5,7 @@
 
 1. **ChatGPT-简介**：介绍 ChatGPT 的基本概念和应用场景，帮助用户快速了解这一技术。
 2. **[ChatGPT-主要功能](guide/ChatGPT-Key%20Features.md)**：详细描述 ChatGPT 的核心功能，如自然语言处理、语义理解和生成、多轮对话管理等。
-3. （点这个，剩下的没写呢） **[ChatGPT-底层原理](guide/ChatGPT-Underlying%20Principles.md)**：解释 ChatGPT 的技术背景和工作机制，使用户能够更深入地理解其强大之处。
+3. **（点这个，剩下的没写呢） [ChatGPT-底层原理](guide/ChatGPT-Underlying%20Principles.md)**：解释 ChatGPT 的技术背景和工作机制，使用户能够更深入地理解其强大之处。
 4. **[ChatGPT-基本操作](guide/ChatGPT-Basic%20Operations.md)**：提供从注册和登录到创建对话和获取回复的详细步骤，确保用户能够顺利上手。
 5. **[ChatGPT-模型参数调整](guide/ChatGPT-Model%20Parameter%20Adjustment.md)**：介绍如何调整模型参数，如温度、最大长度、顶层采样和重复惩罚，以优化生成文本的质量和多样性。
 6. **[ChatGPT-GPTs的创建](guide/ChatGPT-Creating%20GPTs.md)**：详细说明如何创建、训练和部署自定义 GPT 模型，满足特定需求。
