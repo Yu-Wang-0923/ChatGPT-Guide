@@ -14,6 +14,6 @@
 
 The best thing about AI is its ability to
 
-|learn|4.5%|
-|||
+|word|probability|
+|-|-|
 |  do |2.9%|
