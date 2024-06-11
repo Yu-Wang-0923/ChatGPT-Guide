@@ -2,7 +2,7 @@
 
 首先需要解释，ChatGPT从根本上始终要做的是，针对它得到的任何文本产生“合理的延续”。这里所说的“合理”是指，“人们在看到诸如数十亿个网页上的内容后，可能期待别人会这样写”。
 
-假设我们手里的文本是“The best thing about AI is its ability to。
+假设我们手里的文本是 **“The best thing about AI is its ability to”**。
 想象一下浏览人类编写的数十亿页文本，
 找到该文本的所有实例，
 然后看看接下来出现的是什么词，
