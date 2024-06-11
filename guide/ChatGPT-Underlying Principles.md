@@ -15,4 +15,4 @@
 The best thing about AI is its ability to
 |learn|4.5%|
 |-----|----|
-|do   |----|
+|  do |2.9%|
