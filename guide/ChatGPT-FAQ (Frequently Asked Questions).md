@@ -1,6 +1,8 @@
 # ChatGPT-常见问题
 
-[返回主页](../README.md) | [ChatGPT-简介](ChatGPT-Introduction.md) | [ChatGPT-主要功能](ChatGPT-Key%20Features.md) | [ChatGPT-底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT-基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT-模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT-GPTs的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT-插件](ChatGPT-Plugins.md) | [ChatGPT-API调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT-提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT-示例](ChatGPT-Examples.md) | [ChatGPT-常见问题](ChatGPT-FAQ.md)
+[返回主页](../README.md) | [ChatGPT 简介](ChatGPT-Introduction.md) | [ChatGPT 主要功能](ChatGPT-Key%20Features.md) | [ChatGPT 底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT 基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT 模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT GPTs 的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT 插件](ChatGPT-Plugins.md) | [ChatGPT API 调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT 提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT 示例](ChatGPT-Examples.md) | [ChatGPT 常见问题](ChatGPT-FAQ.md)
+
+---
 
 ## 目录
 1. [如何注册和登录？](#如何注册和登录)
@@ -8,6 +10,8 @@
 3. [如何处理错误响应？](#如何处理错误响应)
 4. [如何进行多轮对话？](#如何进行多轮对话)
 5. [如何获取技术支持？](#如何获取技术支持)
+
+---
 
 ## 如何注册和登录？
 
@@ -27,6 +31,8 @@
 
 ### 图表：注册和登录流程
 ![注册和登录流程](https://example.com/registration-login-chart.png)
+
+---
 
 ## 如何调整模型参数？
 
@@ -57,6 +63,8 @@
 
 ### 图表：模型参数调整示意图
 ![模型参数调整示意图](https://example.com/parameter-adjustment-chart.png)
+
+---
 
 ## 如何处理错误响应？
 
@@ -92,6 +100,8 @@ if response.status_code != 200:
 
 ### 图表：错误处理流程
 ![错误处理流程](https://example.com/error-handling-chart.png)
+
+---
 
 ## 如何进行多轮对话？
 
@@ -138,6 +148,8 @@ print(follow_up_response)
 ### 图表：多轮对话示意图
 ![多轮对话示意图](https://example.com/multi-turn-dialogue-chart.png)
 
+---
+
 ## 如何获取技术支持？
 
 ### 回答
@@ -155,6 +167,8 @@ print(follow_up_response)
 
 ### 图表：获取技术支持流程
 ![获取技术支持流程](https://example.com/get-support-chart.png)
+
+---
 
 通过这些常见问题解答，用户可以解决在使用 ChatGPT 过程中遇到的各种问题，从注册和登录、调整模型参数、处理错误响应到进行多轮对话和获取技术支持。希望这些回答能够帮助用户更好地使用 ChatGPT。
 
