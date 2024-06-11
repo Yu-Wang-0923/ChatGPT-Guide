@@ -1,6 +1,8 @@
 # ChatGPT-示例
 
-[返回主页](../README.md) | [ChatGPT-简介](ChatGPT-Introduction.md) | [ChatGPT-主要功能](ChatGPT-Key%20Features.md) | [ChatGPT-底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT-基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT-模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT-GPTs的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT-插件](ChatGPT-Plugins.md) | [ChatGPT-API调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT-提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT-示例](ChatGPT-Examples.md) | [ChatGPT-常见问题](ChatGPT-FAQ.md)
+[返回主页](../README.md) | [ChatGPT 简介](ChatGPT-Introduction.md) | [ChatGPT 主要功能](ChatGPT-Key%20Features.md) | [ChatGPT 底层原理](ChatGPT-Underlying%20Principles.md) | [ChatGPT 基本操作](ChatGPT-Basic%20Operations.md) | [ChatGPT 模型参数调整](ChatGPT-Model%20Parameter%20Adjustment.md) | [ChatGPT GPTs 的创建](ChatGPT-Creating%20GPTs.md) | [ChatGPT 插件](ChatGPT-Plugins.md) | [ChatGPT API 调用](ChatGPT-API%20Calls.md) | [ChatGPT + 其他软件](ChatGPT-Plus%20Other%20Software.md) | [ChatGPT 提示词工程](ChatGPT-Prompt%20Engineering.md) | [ChatGPT 示例](ChatGPT-Examples.md) | [ChatGPT 常见问题](ChatGPT-FAQ.md)
+
+---
 
 ## 目录
 1. [撰写文本](#撰写文本)
@@ -8,6 +10,8 @@
 3. [生成代码](#生成代码)
 4. [多轮对话](#多轮对话)
 5. [翻译](#翻译)
+
+---
 
 ## 撰写文本
 
@@ -28,6 +32,8 @@
 ### 图表：撰写文本示意图
 ![撰写文本示意图](https://example.com/text-writing-example-chart.png)
 
+---
+
 ## 回答问题
 
 ### 示例1：简单问答
@@ -46,6 +52,8 @@
 
 ### 图表：回答问题示意图
 ![回答问题示意图](https://example.com/question-answering-example-chart.png)
+
+---
 
 ## 生成代码
 
@@ -84,6 +92,8 @@
 ### 图表：生成代码示意图
 ![生成代码示意图](https://example.com/code-generation-example-chart.png)
 
+---
+
 ## 多轮对话
 
 ### 示例1：技术支持
@@ -100,6 +110,8 @@
 
 ### 图表：多轮对话示意图
 ![多轮对话示意图](https://example.com/multi-turn-dialogue-example-chart.png)
+
+---
 
 ## 翻译
 
@@ -119,6 +131,8 @@
 
 ### 图表：翻译示意图
 ![翻译示意图](https://example.com/translation-example-chart.png)
+
+---
 
 通过这些示例，用户可以更好地理解和应用 ChatGPT 的功能，从撰写文本、回答问题、生成代码，到进行多轮对话和翻译，ChatGPT 展现了其强大的语言处理能力和广泛的应用场景。
 
